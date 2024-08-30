@@ -1,0 +1,150 @@
+
+* {
+    box-sizing: border-box;
+}
+
+
+
+h2 {
+    background-color: chocolate;
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+    width: 100%;
+    padding: 30px 20px 20px 40px;
+    text-shadow: 2px 3px 4px black;
+
+}
+
+
+#navbar {
+    padding: 8px;
+    margin: 0px;
+}
+
+
+
+
+
+#A {
+    display: inline-flexbox;
+    background-color: rgb(253, 252, 252);
+    border: 1px solid;
+    font-size: 14px;
+    height: 280px;
+    color: black;
+    text-decoration: underline;
+    width: 30%;
+    position: sticky;
+    justify-items: center;
+    text-align: center;
+    box-shadow: 2px 3px 4px;
+    float: left;
+    padding: 40px;
+    margin: 7px;
+
+}
+
+.C {
+    display: inline-flexbox;
+    background-color: rgb(253, 252, 252);
+    border: 1px solid;
+    float: left;
+    width: 30%;
+    height: 280px;
+    font-size: 14px;
+    color: black;
+    text-decoration: underline;
+    justify-items: center;
+    position: sticky;
+    width: 450px;
+    text-align: center;
+    box-shadow: 2px 3px 4px;
+    padding: 30px;
+    margin: 7px;
+}
+
+#D {
+    display: inline-flexbox;
+    background-color: rgb(253, 252, 252);
+    border: 1px solid;
+    float: left;
+    width: 30%;
+    height: 280px;
+    font-size: 14px;
+    color: black;
+    text-decoration: underline;
+    justify-items: center;
+    position: sticky;
+    width: 450px;
+    text-align: center;
+    box-shadow: 2px 3px 4px;
+    padding: 30px;
+    margin: 7px;
+}
+
+#E {
+    display: inline-flexbox;
+    background-color: rgb(253, 252, 252);
+    border: 1px solid;
+    font-size: 14px;
+    height: 280px;
+    color: black;
+    text-decoration: underline;
+    width: 30%;
+    position: sticky;
+    justify-items: center;
+    text-align: center;
+    box-shadow: 2px 3px 4px;
+    float: left;
+    padding: 30px;
+    margin: 7px;
+
+}
+
+#F {
+    display: inline-flexbox;
+    background-color: rgb(253, 252, 252);
+    border: 1px solid;
+    font-size: 14px;
+    height: 280px;
+    color: black;
+    text-decoration: underline;
+    width: 30%;
+    position: sticky;
+    justify-items: center;
+    text-align: center;
+    box-shadow: 2px 3px 4px;
+    float: left;
+    padding: 30px;
+    margin: 7px;
+
+}
+
+#G {
+    display: grid;
+    background-color: rgb(253, 252, 252);
+    border: 1px solid;
+    font-size: 10px;
+    height: 280px;
+    color: black;
+    text-decoration: underline;
+    width: 30%;
+    position: sticky;
+    justify-items: center;
+    text-align: center;
+    box-shadow: 2px 3px 4px;
+    float: left;
+    padding: 30px;
+    margin: 7px;
+
+}
+
+#footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: chocolate;
+    text-align: center;
+    color: white;
+}
